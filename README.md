@@ -21,7 +21,7 @@
 
 ## 📝 Link for the live-version of the project
  
- https://joevictor.github.io/challenge1/
+https://joevictor.github.io/Refactoring-HTML-and-CSS-code/
 
 ![Project screenshot of the website](./Screenshot.png)
 ---
