@@ -5,7 +5,7 @@
 * On this challenge task, the code needs to be refactored making it more cleaner and providing more accessibility for the users.
 
 
-## Refactoring of the code that had to be done :
+## 💡 Refactoring of the code that had to be done :
 
 * Semantic HTML elements added to the index.
 
