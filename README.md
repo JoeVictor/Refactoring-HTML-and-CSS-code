@@ -1,8 +1,8 @@
-# Challenge 01 
+# Refactoring HTML and CSS code
 
 # 📖 Task requirements:
 
-* On this challenge task, the code needs to be refactored making it more cleaner and providing more accessibility for the users.
+* On this challenge task, the code had to be refactored making it more cleaner, understandable and providing more accessibility for the users.
 
 
 ## 💡 Refactoring of the code that had to be done :
